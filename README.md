@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on basically whatever sounds interesting.
 - 📫 How to reach me: stydianx@gmail.com OR gdstudio3223@gmail.com
 
-Just started using git hub but i've been writing html for a few months now.
-Currently working on a personal project.
+Currently working on a personal project, but im down to help.
 I would love to meet nice and like minded people who are generally laid back.
 
 <!---
