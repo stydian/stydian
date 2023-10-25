@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stydian
-- 👀 I’m interested in  Web development, Games & 3D Art.
-- 🌱 I’m currently learning Python, JavaScript & Memes
-- 💞️ I’m looking to collaborate on interesting projects.
+- 👀 I’m interested in  Web development, Software, Games & 3D Art.
+- 🌱 I’m currently learning Python, JS, SQL, and Ruby.
+- 💞️ I’m looking to collaborate on all projects that im currently learing.
 - 📫 How to reach me: stydianx@gmail.com OR gdstudio3223@gmail.com
 
 Currently working on a personal project, but im down to help.
